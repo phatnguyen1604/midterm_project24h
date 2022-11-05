@@ -1,0 +1,5 @@
+../Core/Src/timer.c:22:6:setTimerBlink	16	static
+../Core/Src/timer.c:27:6:setTimerCount	16	static
+../Core/Src/timer.c:32:6:setTimeDebounce	16	static
+../Core/Src/timer.c:37:6:setTimerCountdown	16	static
+../Core/Src/timer.c:42:6:timerRun	4	static
